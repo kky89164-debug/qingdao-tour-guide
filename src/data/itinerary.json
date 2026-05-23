@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1",
+    "title": "经典一日游",
+    "duration": "1天",
+    "description": "适合时间有限的游客，涵盖青岛最核心的景点",
+    "steps": [
+      {"time": "09:00", "place": "栈桥", "activity": "漫步海上长廊，欣赏百年建筑"},
+      {"time": "11:00", "place": "信号山公园", "activity": "登高俯瞰青岛全景"},
+      {"time": "12:30", "place": "中山路", "activity": "午餐，品尝青岛小吃"},
+      {"time": "14:00", "place": "八大关", "activity": "漫步万国建筑博览苑"},
+      {"time": "16:00", "place": "五四广场", "activity": "欣赏\"五月的风\"雕塑"},
+      {"time": "18:00", "place": "奥帆中心", "activity": "观看日落和灯光秀"}
+    ]
+  },
+  {
+    "id": "2",
+    "title": "深度三日游",
+    "duration": "3天",
+    "description": "全面体验青岛的自然风光和人文历史",
+    "steps": [
+      {"time": "第一天", "place": "市区经典", "activity": "栈桥→八大关→五四广场→奥帆中心"},
+      {"time": "第二天", "place": "崂山风景区", "activity": "太清宫→巨峰→仰口海滩"},
+      {"time": "第三天", "place": "文化美食", "activity": "啤酒博物馆→台东步行街→海鲜大餐"}
+    ]
+  },
+  {
+    "id": "3",
+    "title": "亲子欢乐游",
+    "duration": "2天",
+    "description": "适合带孩子的家庭，轻松愉快的行程",
+    "steps": [
+      {"time": "第一天", "place": "金沙滩", "activity": "沙滩玩耍、游泳、堆沙堡"},
+      {"time": "第二天", "place": "海昌极地海洋世界", "activity": "观赏海洋生物、海豚表演"}
+    ]
+  },
+  {
+    "id": "4",
+    "title": "浪漫情侣游",
+    "duration": "2天",
+    "description": "浪漫温馨的海滨之旅",
+    "steps": [
+      {"time": "第一天", "place": "八大关", "activity": "漫步梧桐树下，感受百年浪漫"},
+      {"time": "下午", "place": "太平角公园", "activity": "海边野餐，欣赏日落"},
+      {"time": "第二天", "place": "小麦岛", "activity": "环岛漫步，海誓山盟"},
+      {"time": "晚上", "place": "情人坝", "activity": "灯光璀璨，浪漫晚餐"}
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "栈桥",
+    "description": "青岛的标志性建筑，百年海上长廊，是观赏海景和城市天际线的绝佳地点。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Zhanqiao%20Pier%20with%20beautiful%20ocean%20view%20and%20red%20lanterns&image_size=landscape_16_9",
+    "location": "市南区太平路",
+    "ticket": "免费",
+    "opening_hours": "全天开放",
+    "rating": 4.8
+  },
+  {
+    "id": "2",
+    "name": "八大关",
+    "description": "汇集20多个国家建筑风格的历史街区，被誉为\"万国建筑博览苑\"。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Badaguan%20historical%20district%20with%20European%20style%20buildings%20and%20beautiful%20trees&image_size=landscape_16_9",
+    "location": "市南区八大关路",
+    "ticket": "免费",
+    "opening_hours": "全天开放",
+    "rating": 4.7
+  },
+  {
+    "id": "3",
+    "name": "崂山",
+    "description": "中国海岸线第一高峰，道教名山，山海相连的壮丽景色。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Laoshan%20Mountain%20in%20Qingdao%20with%20misty%20peaks%20and%20ocean%20view&image_size=landscape_16_9",
+    "location": "崂山区",
+    "ticket": "130元",
+    "opening_hours": "7:00-17:00",
+    "rating": 4.9
+  },
+  {
+    "id": "4",
+    "name": "五四广场",
+    "description": "青岛的城市地标，标志性雕塑\"五月的风\"，是市民休闲的好去处。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20May%20Fourth%20Square%20with%20red%20wind%20sculpture%20and%20modern%20buildings&image_size=landscape_16_9",
+    "location": "市南区东海西路",
+    "ticket": "免费",
+    "opening_hours": "全天开放",
+    "rating": 4.6
+  },
+  {
+    "id": "5",
+    "name": "青岛啤酒博物馆",
+    "description": "了解青岛啤酒百年历史，品尝正宗原浆啤酒的绝佳去处。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Tsingtao%20Beer%20Museum%20with%20beer%20barrels%20and%20brewery%20equipment&image_size=landscape_16_9",
+    "location": "市北区登州路56号",
+    "ticket": "60元",
+    "opening_hours": "9:00-17:30",
+    "rating": 4.5
+  },
+  {
+    "id": "6",
+    "name": "金沙滩",
+    "description": "亚洲第一滩，沙质细腻如金，是夏日游泳和休闲的理想场所。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Golden%20Sand%20Beach%20with%20turquoise%20water%20and%20golden%20sand&image_size=landscape_16_9",
+    "location": "黄岛区金沙滩路",
+    "ticket": "免费",
+    "opening_hours": "全天开放",
+    "rating": 4.7
+  },
+  {
+    "id": "7",
+    "name": "信号山公园",
+    "description": "海拔98米的小山，山顶三幢红色蘑菇楼是青岛的独特标志。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Signal%20Hill%20Park%20in%20Qingdao%20with%20red%20mushroom%20buildings&image_size=landscape_16_9",
+    "location": "市南区齐东路17号",
+    "ticket": "15元",
+    "opening_hours": "6:00-20:30",
+    "rating": 4.4
+  },
+  {
+    "id": "8",
+    "name": "奥帆中心",
+    "description": "2008年奥运会帆船比赛举办地，现代与海洋完美融合的景区。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Olympic%20Sailing%20Center%20with%20white%20sailboats%20and%20blue%20sky&image_size=landscape_16_9",
+    "location": "市南区浮山湾畔",
+    "ticket": "免费",
+    "opening_hours": "全天开放",
+    "rating": 4.6
+  }
+]

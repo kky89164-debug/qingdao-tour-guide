@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "青岛大虾",
+    "description": "青岛最有名的海鲜，肉质鲜美，做法多样，是来青岛必尝的美食。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=fresh%20large%20prawns%20from%20Qingdao%20seafood%20on%20plate&image_size=landscape_4_3",
+    "category": "海鲜",
+    "price": "时价",
+    "location": "各大海鲜餐厅"
+  },
+  {
+    "id": "2",
+    "name": "青岛啤酒",
+    "description": "百年品牌，清爽醇厚，原浆啤酒更是不容错过。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Tsingtao%20beer%20in%20classic%20green%20bottle%20with%20foam&image_size=landscape_4_3",
+    "category": "饮品",
+    "price": "10-30元",
+    "location": "各大餐厅、酒吧"
+  },
+  {
+    "id": "3",
+    "name": "辣炒蛤蜊",
+    "description": "青岛特色小吃，鲜辣爽口，是下酒的绝佳小菜。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=spicy%20stir%20fried%20clams%20Chinese%20style&image_size=landscape_4_3",
+    "category": "海鲜",
+    "price": "30-50元",
+    "location": "海鲜大排档"
+  },
+  {
+    "id": "4",
+    "name": "鲅鱼饺子",
+    "description": "青岛特色水饺，鲅鱼肉鲜嫩多汁，味道鲜美。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=fresh%20fish%20dumplings%20in%20Qingdao%20style&image_size=landscape_4_3",
+    "category": "主食",
+    "price": "40-60元",
+    "location": "各大饺子馆"
+  },
+  {
+    "id": "5",
+    "name": "海菜凉粉",
+    "description": "青岛传统小吃，清凉爽口，是夏日解暑佳品。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20seaweed%20jelly%20cold%20dish%20with%20sesame%20sauce&image_size=landscape_4_3",
+    "category": "小吃",
+    "price": "10-20元",
+    "location": "街边小吃摊"
+  },
+  {
+    "id": "6",
+    "name": "烤鱿鱼",
+    "description": "青岛夜市必吃，鲜香四溢，口感Q弹。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=grilled%20squid%20on%20street%20food%20stall&image_size=landscape_4_3",
+    "category": "小吃",
+    "price": "15-30元",
+    "location": "夜市、小吃街"
+  },
+  {
+    "id": "7",
+    "name": "海鲜大咖",
+    "description": "各种海鲜汇聚一堂，视觉和味觉的双重享受。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=seafood%20platter%20with%20crabs%20shrimps%20and%20shellfish&image_size=landscape_4_3",
+    "category": "海鲜",
+    "price": "150-300元",
+    "location": "海鲜餐厅"
+  },
+  {
+    "id": "8",
+    "name": "锅贴",
+    "description": "青岛特色锅贴，底脆馅嫩，味道鲜美。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=pan%20fried%20potstickers%20with%20crispy%20bottom&image_size=landscape_4_3",
+    "category": "主食",
+    "price": "20-40元",
+    "location": "老字号锅贴店"
+  }
+]
