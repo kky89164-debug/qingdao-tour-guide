@@ -3,7 +3,7 @@
     "id": "1",
     "name": "栈桥",
     "description": "青岛的标志性建筑，百年海上长廊，是观赏海景和城市天际线的绝佳地点。",
-    "image": "https://images.ctfassets.net/tl3hl6g945py/4Y4W6sM6f06YwKk0aOY0iM/3c92a135787e4a4b5c887e7c1a2d3f4b/zhanqiao-pier-qingdao-china-shutterstock_186627847.jpg",
+    "image": "https://picsum.photos/seed/zhanqiao/400/300",
     "location": "市南区太平路",
     "ticket": "免费",
     "opening_hours": "全天开放",
@@ -12,7 +12,7 @@
     "longitude": 120.3826,
     "type": "historic",
     "details": {
-      "overview": "栈桥是青岛最具代表性的景点之一，建于清光绪年间，已有百年历史。栈桥全长440米，由海岸伸入海中，尽头是回澜阁，是观赏青岛湾全景的最佳位置。",
+      "overview": "栈桥是青岛最具代表性的景点之一，建于清光绪年间，已有百年历史。",
       "activities": [
         {"name": "漫步栈桥", "desc": "沿着海上长廊漫步，感受海风拂面"},
         {"name": "回澜阁参观", "desc": "登上回澜阁，欣赏360度海景"},
@@ -20,9 +20,9 @@
         {"name": "拍照打卡", "desc": "与百年建筑和大海合影留念"}
       ],
       "images": [
-        "https://images.ctfassets.net/tl3hl6g945py/2Sx9Q1H0u8CW2c4y88QK6O/4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f90/qingdao-zhanqiao-pier-sunset.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/5Z7x2N1tE6kWQ8c4m2A6Ie/1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q/qingdao-zhanqiao-seagulls.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/7M1v8J3eG0CU4s8w2Y8U6u/9z8y7x6w5v4u3t2s1r0q9p8o7n6m5l4k3j2i1/qingdao-zhanqiao-night.jpg"
+        "https://picsum.photos/seed/zhanqiao1/800/600",
+        "https://picsum.photos/seed/zhanqiao2/800/600",
+        "https://picsum.photos/seed/zhanqiao3/800/600"
       ],
       "tips": "建议清晨或傍晚前往，人少景美，拍照效果更佳"
     }
@@ -30,8 +30,8 @@
   {
     "id": "2",
     "name": "八大关",
-    "description": "汇集20多个国家建筑风格的历史街区，被誉为\"万国建筑博览苑\"。",
-    "image": "https://images.ctfassets.net/tl3hl6g945py/6N8x3P2eH0CV4s8x2Z8V6w/2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r/badaguan-historical-district-qingdao.jpg",
+    "description": "汇集20多个国家建筑风格的历史街区，被誉为万国建筑博览苑。",
+    "image": "https://picsum.photos/seed/badaguan/400/300",
     "location": "市南区八大关路",
     "ticket": "免费",
     "opening_hours": "全天开放",
@@ -40,7 +40,7 @@
     "longitude": 120.3994,
     "type": "historic",
     "details": {
-      "overview": "八大关是青岛著名的历史文化街区，因八条以关隘命名的道路而得名。这里汇集了20多个国家的建筑风格，有\"万国建筑博览苑\"之称。",
+      "overview": "八大关是青岛著名的历史文化街区，因八条以关隘命名的道路而得名。",
       "activities": [
         {"name": "建筑欣赏", "desc": "漫步八大关，欣赏各国风格建筑"},
         {"name": "八大关小礼堂", "desc": "参观著名的欧式婚礼殿堂"},
@@ -48,9 +48,9 @@
         {"name": "太平角公园", "desc": "毗邻八大关，海滨漫步"}
       ],
       "images": [
-        "https://images.ctfassets.net/tl3hl6g945py/8P9y4Q3fI0DW4t8y2Z8W6x/3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s/badaguan-autumn-ginkgo.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/9Q0z5R4gJ0EX4u8z2Z8X6y/4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t/badaguan-european-villa.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/0R1a6S5hK0FY4v8A2Z8Y6z/5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u/badaguan-coastal-walkway.jpg"
+        "https://picsum.photos/seed/badaguan1/800/600",
+        "https://picsum.photos/seed/badaguan2/800/600",
+        "https://picsum.photos/seed/badaguan3/800/600"
       ],
       "tips": "春季海棠盛开和秋季银杏金黄是最佳观赏时间"
     }
@@ -59,7 +59,7 @@
     "id": "3",
     "name": "崂山",
     "description": "中国海岸线第一高峰，道教名山，山海相连的壮丽景色。",
-    "image": "https://images.ctfassets.net/tl3hl6g945py/1S2b7T6iL0GZ4w8B2Z8Z6A/6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v/laoshan-mountain-qingdao.jpg",
+    "image": "https://picsum.photos/seed/laoshan/400/300",
     "location": "崂山区",
     "ticket": "130元",
     "opening_hours": "7:00-17:00",
@@ -68,7 +68,7 @@
     "longitude": 120.6725,
     "type": "nature",
     "details": {
-      "overview": "崂山是中国海岸线第一高峰，海拔1133米，山海相连，风景壮丽。这里是道教名山，有\"海上第一名山\"之称。",
+      "overview": "崂山是中国海岸线第一高峰，海拔1133米，山海相连，风景壮丽。",
       "activities": [
         {"name": "太清宫", "desc": "参观2100年历史的道教圣地"},
         {"name": "巨峰游览", "desc": "登顶巨峰，俯瞰山海全景"},
@@ -76,9 +76,9 @@
         {"name": "北九水", "desc": "欣赏峡谷溪流瀑布美景"}
       ],
       "images": [
-        "https://images.ctfassets.net/tl3hl6g945py/2T3c8U7jM0HA4x8C2Z8A6B/7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w/laoshan-taiqing-palace.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/3U4d9V8kN0IB4y8D2Z8B6C/8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x/laoshan-mountain-peak.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/4V5e0W9lO0JC4z8E2Z8C6D/9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y/laoshan-waterfall.jpg"
+        "https://picsum.photos/seed/laoshan1/800/600",
+        "https://picsum.photos/seed/laoshan2/800/600",
+        "https://picsum.photos/seed/laoshan3/800/600"
       ],
       "tips": "建议安排一整天，景区较大，可选择太清或巨峰线路"
     }
@@ -86,8 +86,8 @@
   {
     "id": "4",
     "name": "五四广场",
-    "description": "青岛的城市地标，标志性雕塑\"五月的风\"，是市民休闲的好去处。",
-    "image": "https://images.ctfassets.net/tl3hl6g945py/5W6f1X0mP0KD5A8F2Z8D6E/0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y6z/wusi-square-qingdao.jpg",
+    "description": "青岛的城市地标，标志性雕塑五月的风，是市民休闲的好去处。",
+    "image": "https://picsum.photos/seed/wusi/400/300",
     "location": "市南区东海西路",
     "ticket": "免费",
     "opening_hours": "全天开放",
@@ -96,7 +96,7 @@
     "longitude": 120.3987,
     "type": "modern",
     "details": {
-      "overview": "五四广场是青岛的城市地标，因纪念五四运动而得名。标志性雕塑\"五月的风\"是青岛的象征。",
+      "overview": "五四广场是青岛的城市地标，因纪念五四运动而得名。",
       "activities": [
         {"name": "五月的风", "desc": "与标志性雕塑合影"},
         {"name": "海滨漫步", "desc": "沿着浮山湾散步"},
@@ -104,9 +104,9 @@
         {"name": "音乐广场", "desc": "欣赏音乐喷泉"}
       ],
       "images": [
-        "https://images.ctfassets.net/tl3hl6g945py/6X7g2Y1nQ0LE5B8G2Z8E6F/1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y6z7a/wusi-square-night.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/7Y8h3Z2oR0MF5C8H2Z8F6G/2l3m4n5o6p7q8r9s0t1u2v3w4x5y6z7a8b/wusi-square-sunset.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/8Z9i4A3pS0NG5D8I2Z8G6H/3m4n5o6p7q8r9s0t1u2v3w4x5y6z7a8b9c/wusi-square-fountain.jpg"
+        "https://picsum.photos/seed/wusi1/800/600",
+        "https://picsum.photos/seed/wusi2/800/600",
+        "https://picsum.photos/seed/wusi3/800/600"
       ],
       "tips": "灯光秀通常在晚上7:30-9:00，节假日会延长"
     }
@@ -115,7 +115,7 @@
     "id": "5",
     "name": "青岛啤酒博物馆",
     "description": "了解青岛啤酒百年历史，品尝正宗原浆啤酒的绝佳去处。",
-    "image": "https://images.ctfassets.net/tl3hl6g945py/9A0j5B4qT0OH5E8J2Z8H6I/4n5o6p7q8r9s0t1u2v3w4x5y6z7a8b9c0d/tsingtao-beer-museum.jpg",
+    "image": "https://picsum.photos/seed/beer/400/300",
     "location": "市北区登州路56号",
     "ticket": "60元",
     "opening_hours": "9:00-17:30",
@@ -124,7 +124,7 @@
     "longitude": 120.3381,
     "type": "culture",
     "details": {
-      "overview": "青岛啤酒博物馆位于百年老厂房内，展示青岛啤酒的历史和酿造工艺，是啤酒爱好者的必访之地。",
+      "overview": "青岛啤酒博物馆位于百年老厂房内，展示青岛啤酒的历史和酿造工艺。",
       "activities": [
         {"name": "历史展厅", "desc": "了解青啤百年历史"},
         {"name": "酿造工艺", "desc": "参观啤酒酿造过程"},
@@ -132,9 +132,9 @@
         {"name": "啤酒吧", "desc": "在主题酒吧畅饮"}
       ],
       "images": [
-        "https://images.ctfassets.net/tl3hl6g945py/0B1k6C5rU0PI5F8K2Z8I6J/5o6p7q8r9s0t1u2v3w4x5y6z7a8b9c0d1e/tsingtao-museum-exhibition.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/1C2l7D6sV0QJ5G8L2Z8J6K/6p7q8r9s0t1u2v3w4x5y6z7a8b9c0d1e2f/tsingtao-brewery-equipment.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/2D3m8E7tW0RK5H8M2Z8K6L/7q8r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g/tsingtao-beer-bar.jpg"
+        "https://picsum.photos/seed/beer1/800/600",
+        "https://picsum.photos/seed/beer2/800/600",
+        "https://picsum.photos/seed/beer3/800/600"
       ],
       "tips": "包含免费啤酒品尝，建议饮酒后不要开车"
     }
@@ -143,7 +143,7 @@
     "id": "6",
     "name": "金沙滩",
     "description": "亚洲第一滩，沙质细腻如金，是夏日游泳和休闲的理想场所。",
-    "image": "https://images.ctfassets.net/tl3hl6g945py/3E4n9F8uX0SL5I8N2Z8L6M/8r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h/golden-beach-qingdao.jpg",
+    "image": "https://picsum.photos/seed/beach/400/300",
     "location": "黄岛区金沙滩路",
     "ticket": "免费",
     "opening_hours": "全天开放",
@@ -152,7 +152,7 @@
     "longitude": 120.1687,
     "type": "beach",
     "details": {
-      "overview": "金沙滩被誉为\"亚洲第一滩\"，沙质细腻如金，海水清澈湛蓝，是青岛最受欢迎的海滨浴场之一。",
+      "overview": "金沙滩被誉为亚洲第一滩，沙质细腻如金，海水清澈湛蓝。",
       "activities": [
         {"name": "游泳戏水", "desc": "在清澈海水中畅游"},
         {"name": "沙滩运动", "desc": "沙滩排球、足球等"},
@@ -160,9 +160,9 @@
         {"name": "沙滩露营", "desc": "搭帐篷享受海滨时光"}
       ],
       "images": [
-        "https://images.ctfassets.net/tl3hl6g945py/4F5o0G9vY0TM5J8O2Z8M6N/9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i/golden-beach-sunset.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/5G6p1H0wZ0UN5K8P2Z8N6O/0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j/golden-beach-watersports.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/6H7q2I1xAAVO5L8Q2Z8O6P/1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k/golden-beach-volleyball.jpg"
+        "https://picsum.photos/seed/beach1/800/600",
+        "https://picsum.photos/seed/beach2/800/600",
+        "https://picsum.photos/seed/beach3/800/600"
       ],
       "tips": "夏季人多，建议早去占位，注意防晒"
     }
@@ -171,7 +171,7 @@
     "id": "7",
     "name": "信号山公园",
     "description": "海拔98米的小山，山顶三幢红色蘑菇楼是青岛的独特标志。",
-    "image": "https://images.ctfassets.net/tl3hl6g945py/7I8r3J2yBPWP5M8R2Z8P6Q/2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l/xinhaoshan-park.jpg",
+    "image": "https://picsum.photos/seed/xinhaoshan/400/300",
     "location": "市南区齐东路17号",
     "ticket": "15元",
     "opening_hours": "6:00-20:30",
@@ -180,7 +180,7 @@
     "longitude": 120.3542,
     "type": "nature",
     "details": {
-      "overview": "信号山海拔98米，山顶的三幢红色蘑菇楼是青岛的独特标志，360度旋转观景台可俯瞰全城美景。",
+      "overview": "信号山海拔98米，山顶的三幢红色蘑菇楼是青岛的独特标志。",
       "activities": [
         {"name": "旋转观景台", "desc": "360度俯瞰青岛全景"},
         {"name": "登山步道", "desc": "漫步林间小道"},
@@ -188,9 +188,9 @@
         {"name": "夜景欣赏", "desc": "夜晚俯瞰城市灯光"}
       ],
       "images": [
-        "https://images.ctfassets.net/tl3hl6g945py/8J9s4K3zCQXP5N8S2Z8Q6R/3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m/xinhaoshan-observatory.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/9K0t5L4ACRYQ5O8T2Z8R6S/4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n/xinhaoshan-red-buildings.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/0L1u6M5BDSZR5P8U2Z8S6T/5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o/xinhaoshan-night.jpg"
+        "https://picsum.photos/seed/xinhaoshan1/800/600",
+        "https://picsum.photos/seed/xinhaoshan2/800/600",
+        "https://picsum.photos/seed/xinhaoshan3/800/600"
       ],
       "tips": "建议傍晚前往，可同时欣赏白天和夜晚景色"
     }
@@ -199,7 +199,7 @@
     "id": "8",
     "name": "奥帆中心",
     "description": "2008年奥运会帆船比赛举办地，现代与海洋完美融合的景区。",
-    "image": "https://images.ctfassets.net/tl3hl6g945py/1M2v7N6CETAS5Q8V2Z8T6U/6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p/aofan-center.jpg",
+    "image": "https://picsum.photos/seed/aofan/400/300",
     "location": "市南区浮山湾畔",
     "ticket": "免费",
     "opening_hours": "全天开放",
@@ -208,7 +208,7 @@
     "longitude": 120.4108,
     "type": "modern",
     "details": {
-      "overview": "奥帆中心是2008年北京奥运会帆船比赛举办地，现在是集运动、休闲、旅游于一体的综合性景区。",
+      "overview": "奥帆中心是2008年北京奥运会帆船比赛举办地。",
       "activities": [
         {"name": "帆船体验", "desc": "乘坐帆船出海体验"},
         {"name": "情人坝", "desc": "漫步海上堤坝"},
@@ -216,9 +216,9 @@
         {"name": "夜景灯光秀", "desc": "观看浮山湾灯光表演"}
       ],
       "images": [
-        "https://images.ctfassets.net/tl3hl6g945py/2N3w8O7DFTBT5R8W2Z8U6V/7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q/aofan-sailboats.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/3O4x9P8EGUCU5S8X2Z8V6W/8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r/aofan-lover-dam.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/4P5y0Q9FHVDV5T8Y2Z8W6X/9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s/aofan-night-lights.jpg"
+        "https://picsum.photos/seed/aofan1/800/600",
+        "https://picsum.photos/seed/aofan2/800/600",
+        "https://picsum.photos/seed/aofan3/800/600"
       ],
       "tips": "帆船体验需提前预约，价格约100-200元/小时"
     }
@@ -227,7 +227,7 @@
     "id": "9",
     "name": "小麦岛",
     "description": "四面环海的小岛，环岛步道风景优美，是拍照打卡的热门地点。",
-    "image": "https://images.ctfassets.net/tl3hl6g945py/5Q6z1R0GIXEW5U8Z2Z8X6Y/0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t/maidao-island.jpg",
+    "image": "https://picsum.photos/seed/maidao/400/300",
     "location": "市南区小麦岛公园",
     "ticket": "免费",
     "opening_hours": "全天开放",
@@ -236,7 +236,7 @@
     "longitude": 120.4185,
     "type": "nature",
     "details": {
-      "overview": "小麦岛是一个四面环海的小岛，岛上有一条环形步道，风景优美，是青岛最热门的拍照打卡地点之一。",
+      "overview": "小麦岛是一个四面环海的小岛，岛上有一条环形步道，风景优美。",
       "activities": [
         {"name": "环岛漫步", "desc": "绕岛一周约1.2公里"},
         {"name": "草坪野餐", "desc": "在岛上草坪享受野餐"},
@@ -244,9 +244,9 @@
         {"name": "日落观赏", "desc": "欣赏绝美海上日落"}
       ],
       "images": [
-        "https://images.ctfassets.net/tl3hl6g945py/6R7a2S1HJYFX5V8A2Z8Y6Z/1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u/maidao-aerial.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/7S8b3T2IKYGY5W8B2Z8Z6A/2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v/maidao-sunset.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/8T9c4U3JLZHZ5X8C2Z8A6B/3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w/maidao-coastal-path.jpg"
+        "https://picsum.photos/seed/maidao1/800/600",
+        "https://picsum.photos/seed/maidao2/800/600",
+        "https://picsum.photos/seed/maidao3/800/600"
       ],
       "tips": "周末人较多，建议工作日前往体验更佳"
     }
@@ -255,7 +255,7 @@
     "id": "10",
     "name": "海昌极地海洋世界",
     "description": "大型海洋主题公园，可以观赏白鲸、海豚、企鹅等极地动物。",
-    "image": "https://images.ctfassets.net/tl3hl6g945py/9U0d5V4KMZIA5Y8D2Z8B6C/4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x/ocean-world.jpg",
+    "image": "https://picsum.photos/seed/ocean/400/300",
     "location": "崂山区东海东路",
     "ticket": "180元",
     "opening_hours": "9:00-17:30",
@@ -264,7 +264,7 @@
     "longitude": 120.4573,
     "type": "entertainment",
     "details": {
-      "overview": "青岛海昌极地海洋世界是大型海洋主题公园，拥有白鲸、海豚、企鹅等多种极地动物，是亲子游玩的好去处。",
+      "overview": "青岛海昌极地海洋世界是大型海洋主题公园，拥有白鲸、海豚、企鹅等多种极地动物。",
       "activities": [
         {"name": "白鲸表演", "desc": "观看可爱的白鲸表演"},
         {"name": "海豚表演", "desc": "精彩的海豚跳跃表演"},
@@ -272,9 +272,9 @@
         {"name": "海底隧道", "desc": "漫步海底隧道"}
       ],
       "images": [
-        "https://images.ctfassets.net/tl3hl6g945py/0V1e6W5LNZJB5Z8E2Z8C6D/5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y/white-whale-show.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/1W2f7X6MOAKC5A8F2Z8D6E/6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z/dolphin-show.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/2X3g8Y7NPALD5B8G2Z8E6F/7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a/underwater-tunnel.jpg"
+        "https://picsum.photos/seed/ocean1/800/600",
+        "https://picsum.photos/seed/ocean2/800/600",
+        "https://picsum.photos/seed/ocean3/800/600"
       ],
       "tips": "表演有固定时间，建议提前查看表演时间表"
     }
@@ -283,7 +283,7 @@
     "id": "11",
     "name": "天主教堂",
     "description": "青岛著名的哥特式建筑，是拍照和举办婚礼的热门地点。",
-    "image": "https://images.ctfassets.net/tl3hl6g945py/3Y4h9Z8OQALF5C8H2Z8F6G/8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b/catholic-church.jpg",
+    "image": "https://picsum.photos/seed/church/400/300",
     "location": "市南区浙江路15号",
     "ticket": "10元",
     "opening_hours": "8:30-17:30",
@@ -292,7 +292,7 @@
     "longitude": 120.3426,
     "type": "historic",
     "details": {
-      "overview": "青岛天主教堂是德国哥特式建筑，始建于1932年，是青岛最著名的宗教建筑之一，也是热门的婚纱照拍摄地。",
+      "overview": "青岛天主教堂是德国哥特式建筑，始建于1932年。",
       "activities": [
         {"name": "教堂参观", "desc": "参观哥特式教堂内部"},
         {"name": "拍照打卡", "desc": "与美丽的教堂合影"},
@@ -300,9 +300,9 @@
         {"name": "婚礼拍摄", "desc": "见证浪漫婚礼"}
       ],
       "images": [
-        "https://images.ctfassets.net/tl3hl6g945py/4Z5i0A9PRBMG5D8I2Z8G6H/9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c/church-interior.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/5A6j1B0QSCNH5E8J2Z8H6I/0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d/church-wedding.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/6B7k2C1RTCOI5F8K2Z8I6J/1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e/church-square.jpg"
+        "https://picsum.photos/seed/church1/800/600",
+        "https://picsum.photos/seed/church2/800/600",
+        "https://picsum.photos/seed/church3/800/600"
       ],
       "tips": "周末和节假日人较多，建议早去"
     }
@@ -310,8 +310,8 @@
   {
     "id": "12",
     "name": "石老人浴场",
-    "description": "以海中\"石老人\"礁石闻名，沙滩平缓，适合游泳和水上运动。",
-    "image": "https://images.ctfassets.net/tl3hl6g945py/7C8l3D2SUDPJ5G8L2Z8J6K/2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f/shilaoren-beach.jpg",
+    "description": "以海中石老人礁石闻名，沙滩平缓，适合游泳和水上运动。",
+    "image": "https://picsum.photos/seed/shilaoren/400/300",
     "location": "崂山区海尔路南端",
     "ticket": "免费",
     "opening_hours": "全天开放",
@@ -320,7 +320,7 @@
     "longitude": 120.4621,
     "type": "beach",
     "details": {
-      "overview": "石老人浴场因海中一块酷似老人的礁石而得名，沙滩平缓，海水清澈，是青岛东部最受欢迎的海滨浴场之一。",
+      "overview": "石老人浴场因海中一块酷似老人的礁石而得名，沙滩平缓，海水清澈。",
       "activities": [
         {"name": "游泳戏水", "desc": "在平缓的海水中游泳"},
         {"name": "石老人拍照", "desc": "与标志性礁石合影"},
@@ -328,9 +328,9 @@
         {"name": "水上运动", "desc": "冲浪、帆板等"}
       ],
       "images": [
-        "https://images.ctfassets.net/tl3hl6g945py/8D9m4E3TVEQK5H8M2Z8K6L/3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g/shilaoren-rock.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/9E0n5F4UWFRH5I8N2Z8L6M/4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h/shilaoren-surfing.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/0F1o6G5VXGSI5J8O2Z8M6N/5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i/shilaoren-sunset.jpg"
+        "https://picsum.photos/seed/shilaoren1/800/600",
+        "https://picsum.photos/seed/shilaoren2/800/600",
+        "https://picsum.photos/seed/shilaoren3/800/600"
       ],
       "tips": "夏季游泳区有救生员，安全有保障"
     }
@@ -339,7 +339,7 @@
     "id": "13",
     "name": "小鱼山公园",
     "description": "海拔60米的小山，是观赏青岛湾和八大关美景的最佳地点之一。",
-    "image": "https://images.ctfassets.net/tl3hl6g945py/1G2p7H6WYHTJ5K8P2Z8N6O/6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j/xiaoyushan-park.jpg",
+    "image": "https://picsum.photos/seed/xiaoyushan/400/300",
     "location": "市南区福山支路",
     "ticket": "15元",
     "opening_hours": "6:00-20:30",
@@ -348,7 +348,7 @@
     "longitude": 120.3628,
     "type": "nature",
     "details": {
-      "overview": "小鱼山海拔60米，虽不高但位置绝佳，可俯瞰青岛湾、栈桥和八大关，是拍摄青岛全景的好地方。",
+      "overview": "小鱼山海拔60米，虽不高但位置绝佳，可俯瞰青岛湾、栈桥和八大关。",
       "activities": [
         {"name": "览潮阁", "desc": "登上览潮阁俯瞰全景"},
         {"name": "名人故居", "desc": "参观附近文化名人故居"},
@@ -356,9 +356,9 @@
         {"name": "拍照", "desc": "拍摄城市全景"}
       ],
       "images": [
-        "https://images.ctfassets.net/tl3hl6g945py/2H3q8I7XZIU K5L8Q2Z8O6P/7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k/xiaoyushan-pavilion.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/3I4r9J8YAJVL5M8R2Z8P6Q/8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l/xiaoyushan-overview.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/4J5s0K9ZBKW M5N8S2Z8Q6R/9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m/xiaoyushan-path.jpg"
+        "https://picsum.photos/seed/xiaoyushan1/800/600",
+        "https://picsum.photos/seed/xiaoyushan2/800/600",
+        "https://picsum.photos/seed/xiaoyushan3/800/600"
       ],
       "tips": "门票便宜，性价比很高，推荐前往"
     }
@@ -367,7 +367,7 @@
     "id": "14",
     "name": "德国总督楼旧址",
     "description": "德国殖民时期的总督官邸，现为青岛历史博物馆，建筑精美。",
-    "image": "https://images.ctfassets.net/tl3hl6g945py/5K6t1L0ACLX N5O8T2Z8R6S/0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n/governor-residence.jpg",
+    "image": "https://picsum.photos/seed/governor/400/300",
     "location": "市南区龙山路26号",
     "ticket": "20元",
     "opening_hours": "9:00-17:00",
@@ -376,7 +376,7 @@
     "longitude": 120.3512,
     "type": "historic",
     "details": {
-      "overview": "德国总督楼旧址是德国殖民时期的总督官邸，建于1903年，现为青岛历史博物馆，展示青岛百年历史。",
+      "overview": "德国总督楼旧址是德国殖民时期的总督官邸，建于1903年。",
       "activities": [
         {"name": "建筑参观", "desc": "欣赏德式建筑艺术"},
         {"name": "历史展览", "desc": "了解青岛历史变迁"},
@@ -384,9 +384,9 @@
         {"name": "拍照", "desc": "与百年建筑合影"}
       ],
       "images": [
-        "https://images.ctfassets.net/tl3hl6g945py/6L7u2M1BDMY O5P8U2Z8S6T/1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o/governor-interior.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/7M8v3N2CEZN P5Q8V2Z8T6U/2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p/governor-garden.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/8N9w4O3DFAO Q5R8W2Z8U6V/3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q/governor-staircase.jpg"
+        "https://picsum.photos/seed/governor1/800/600",
+        "https://picsum.photos/seed/governor2/800/600",
+        "https://picsum.photos/seed/governor3/800/600"
       ],
       "tips": "建议跟随讲解员了解历史，收获更多"
     }
@@ -395,7 +395,7 @@
     "id": "15",
     "name": "太平角公园",
     "description": "八大关景区的一部分，滨海步道风景秀丽，是散步休闲的好去处。",
-    "image": "https://images.ctfassets.net/tl3hl6g945py/9O0x5P4EGBP R5S8X2Z8V6W/4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r/taipingjiao-park.jpg",
+    "image": "https://picsum.photos/seed/taipingjiao/400/300",
     "location": "市南区太平角一路",
     "ticket": "免费",
     "opening_hours": "全天开放",
@@ -404,7 +404,7 @@
     "longitude": 120.4052,
     "type": "nature",
     "details": {
-      "overview": "太平角公园位于八大关东侧，拥有美丽的滨海步道，是青岛最适合散步和看海的地方之一。",
+      "overview": "太平角公园位于八大关东侧，拥有美丽的滨海步道。",
       "activities": [
         {"name": "滨海步道", "desc": "沿着海边漫步"},
         {"name": "礁石观海", "desc": "在礁石上欣赏海景"},
@@ -412,9 +412,9 @@
         {"name": "日出日落", "desc": "欣赏美丽的日出日落"}
       ],
       "images": [
-        "https://images.ctfassets.net/tl3hl6g945py/0P1y6Q5FHcq S5T8Y2Z8W6X/5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s/taipingjiao-coastal.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/1Q2z7R6GIRDT5U8Z2Z8X6Y/6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t/taipingjiao-picnic.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/2R3a8S7HJEUU5V8A2Z8Y6Z/7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u/taipingjiao-rocks.jpg"
+        "https://picsum.photos/seed/taipingjiao1/800/600",
+        "https://picsum.photos/seed/taipingjiao2/800/600",
+        "https://picsum.photos/seed/taipingjiao3/800/600"
       ],
       "tips": "人少安静，适合情侣约会或独自思考"
     }
@@ -423,7 +423,7 @@
     "id": "16",
     "name": "台东步行街",
     "description": "青岛最热闹的商业街，美食小吃应有尽有，是购物和品尝小吃的好去处。",
-    "image": "https://images.ctfassets.net/tl3hl6g945py/3S4b9T8IKFV V5W8B2Z8Z6A/8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v/taidong-street.jpg",
+    "image": "https://picsum.photos/seed/taidong/400/300",
     "location": "市北区台东三路",
     "ticket": "免费",
     "opening_hours": "全天开放",
@@ -432,7 +432,7 @@
     "longitude": 120.3567,
     "type": "shopping",
     "details": {
-      "overview": "台东步行街是青岛最繁华的商业街之一，有\"青岛王府井\"之称，汇集了各种美食小吃和购物商店。",
+      "overview": "台东步行街是青岛最繁华的商业街之一，有青岛王府井之称。",
       "activities": [
         {"name": "美食品尝", "desc": "品尝各种小吃美食"},
         {"name": "购物逛街", "desc": "购买特色商品"},
@@ -440,9 +440,9 @@
         {"name": "电影院", "desc": "看一场电影"}
       ],
       "images": [
-        "https://images.ctfassets.net/tl3hl6g945py/4T5c0U9JLGW W5X8C2Z8A6B/9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w/taidong-night.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/5U6d1V0KMHX X5Y8D2Z8B6C/0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x/taidong-food.jpg",
-        "https://images.ctfassets.net/tl3hl6g945py/6V7e2W1LNIY Y5Z8E2Z8C6D/1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y/taidong-shopping.jpg"
+        "https://picsum.photos/seed/taidong1/800/600",
+        "https://picsum.photos/seed/taidong2/800/600",
+        "https://picsum.photos/seed/taidong3/800/600"
       ],
       "tips": "晚上最热闹，建议傍晚前往"
     }

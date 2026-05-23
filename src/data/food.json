@@ -3,12 +3,12 @@
     "id": "1",
     "name": "青岛大虾",
     "description": "青岛最著名的海鲜，肉质鲜嫩，营养丰富。",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop",
+    "image": "https://picsum.photos/seed/shrimp/400/300",
     "price": "128-188元/斤",
-    "category": "seafood",
+    "category": "海鲜",
     "recommend": true,
     "details": {
-      "description": "青岛大虾是青岛最具代表性的海鲜之一，以其个大、肉嫩、味美而闻名。产自黄海海域，生长环境优良。",
+      "description": "青岛大虾是青岛最具代表性的海鲜之一，以其个大、肉嫩、味美而闻名。",
       "tips": "推荐白灼做法，能最大程度保留鲜味"
     }
   },
@@ -16,12 +16,12 @@
     "id": "2",
     "name": "青岛啤酒",
     "description": "百年老字号，清爽醇厚，享誉世界。",
-    "image": "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?w=400&h=300&fit=crop",
+    "image": "https://picsum.photos/seed/beer_drink/400/300",
     "price": "10-20元/杯",
-    "category": "drinks",
+    "category": "饮品",
     "recommend": true,
     "details": {
-      "description": "青岛啤酒始于1903年，采用德国酿造工艺，口感清爽，是青岛的城市名片。",
+      "description": "青岛啤酒始于1903年，采用德国酿造工艺，口感清爽。",
       "tips": "建议搭配海鲜和烧烤"
     }
   },
@@ -29,12 +29,12 @@
     "id": "3",
     "name": "海菜凉粉",
     "description": "青岛特色小吃，清凉爽口，夏日必备。",
-    "image": "https://images.unsplash.com/photo-1547592166-23ac58314cf9?w=400&h=300&fit=crop",
+    "image": "https://picsum.photos/seed/jelly/400/300",
     "price": "10-15元/份",
-    "category": "snacks",
+    "category": "小吃",
     "recommend": false,
     "details": {
-      "description": "海菜凉粉是青岛传统小吃，由海菜熬制而成，清凉爽滑，是夏日消暑佳品。",
+      "description": "海菜凉粉是青岛传统小吃，由海菜熬制而成，清凉爽滑。",
       "tips": "加醋和蒜泥味道更佳"
     }
   },
@@ -42,12 +42,12 @@
     "id": "4",
     "name": "排骨米饭",
     "description": "青岛特色快餐，排骨酥烂，米饭香糯。",
-    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=300&fit=crop",
+    "image": "https://picsum.photos/seed/ribs_rice/400/300",
     "price": "25-35元/份",
-    "category": "main",
+    "category": "主食",
     "recommend": true,
     "details": {
-      "description": "排骨米饭是青岛最受欢迎的快餐之一，排骨炖煮得酥烂入味，搭配香糯的米饭。",
+      "description": "排骨米饭是青岛最受欢迎的快餐之一，排骨炖煮得酥烂入味。",
       "tips": "推荐搭配一份小菜"
     }
   },
@@ -55,9 +55,9 @@
     "id": "5",
     "name": "扇贝",
     "description": "新鲜肥美的扇贝，蒜蓉粉丝蒸是经典做法。",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop",
+    "image": "https://picsum.photos/seed/scallop/400/300",
     "price": "68-98元/份",
-    "category": "seafood",
+    "category": "海鲜",
     "recommend": true,
     "details": {
       "description": "青岛扇贝个大肉厚，蒜蓉粉丝蒸是最受欢迎的做法。",
@@ -68,9 +68,9 @@
     "id": "6",
     "name": "鲅鱼饺子",
     "description": "青岛特色水饺，鲅鱼肉鲜嫩多汁。",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop",
+    "image": "https://picsum.photos/seed/dumpling/400/300",
     "price": "48-68元/斤",
-    "category": "main",
+    "category": "主食",
     "recommend": true,
     "details": {
       "description": "鲅鱼饺子是青岛的特色美食，鲅鱼肉细腻鲜美，饺子馅多汁。",
@@ -81,9 +81,9 @@
     "id": "7",
     "name": "辣炒蛤蜊",
     "description": "青岛人最爱吃的小海鲜，香辣可口。",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop",
+    "image": "https://picsum.photos/seed/clams/400/300",
     "price": "38-58元/份",
-    "category": "seafood",
+    "category": "海鲜",
     "recommend": true,
     "details": {
       "description": "辣炒蛤蜊是青岛大排档的招牌菜，配上啤酒简直绝配。",
@@ -94,12 +94,12 @@
     "id": "8",
     "name": "原浆啤酒",
     "description": "未经过滤的新鲜啤酒，口感醇厚。",
-    "image": "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?w=400&h=300&fit=crop",
+    "image": "https://picsum.photos/seed/draft_beer/400/300",
     "price": "15-25元/扎",
-    "category": "drinks",
+    "category": "饮品",
     "recommend": true,
     "details": {
-      "description": "原浆啤酒是直接从酿造罐中取出的新鲜啤酒，未经过滤，保留了丰富的营养和风味。",
+      "description": "原浆啤酒是直接从酿造罐中取出的新鲜啤酒，口感醇厚。",
       "tips": "保质期短，要尽快饮用"
     }
   },
@@ -107,9 +107,9 @@
     "id": "9",
     "name": "清蒸鲈鱼",
     "description": "肉质鲜嫩，清淡爽口，老少皆宜。",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop",
+    "image": "https://picsum.photos/seed/bass/400/300",
     "price": "88-128元/条",
-    "category": "seafood",
+    "category": "海鲜",
     "recommend": false,
     "details": {
       "description": "清蒸鲈鱼是经典的海鲜做法，能最大程度保留鱼肉的鲜味。",
@@ -120,9 +120,9 @@
     "id": "10",
     "name": "海鲜烧烤",
     "description": "各种海鲜串烧，香气四溢。",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop",
+    "image": "https://picsum.photos/seed/seafood_bbq/400/300",
     "price": "58-128元/份",
-    "category": "seafood",
+    "category": "海鲜",
     "recommend": false,
     "details": {
       "description": "海鲜烧烤是青岛夏夜的特色，烤鱿鱼、烤扇贝、烤大虾应有尽有。",
@@ -133,9 +133,9 @@
     "id": "11",
     "name": "锅贴",
     "description": "青岛特色小吃，外皮酥脆，内馅鲜美。",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop",
+    "image": "https://picsum.photos/seed/pan_cake/400/300",
     "price": "20-30元/份",
-    "category": "snacks",
+    "category": "小吃",
     "recommend": false,
     "details": {
       "description": "青岛锅贴外皮金黄酥脆，内馅多汁，是非常受欢迎的小吃。",
@@ -146,9 +146,9 @@
     "id": "12",
     "name": "崂山可乐",
     "description": "青岛本土汽水，中药配方，口感独特。",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop",
+    "image": "https://picsum.photos/seed/cola/400/300",
     "price": "5-8元/瓶",
-    "category": "drinks",
+    "category": "饮品",
     "recommend": false,
     "details": {
       "description": "崂山可乐是青岛本土的碳酸饮料，采用中药配方，口感独特。",
@@ -159,12 +159,12 @@
     "id": "13",
     "name": "墨鱼水饺",
     "description": "黑色外皮的特色水饺，墨鱼馅鲜美。",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop",
+    "image": "https://picsum.photos/seed/squid_dumpling/400/300",
     "price": "58-78元/斤",
-    "category": "main",
+    "category": "主食",
     "recommend": false,
     "details": {
-      "description": "墨鱼水饺是青岛的特色美食，黑色的外皮是用墨鱼汁调制的，内馅是新鲜墨鱼肉。",
+      "description": "墨鱼水饺是青岛的特色美食，黑色的外皮是用墨鱼汁调制的。",
       "tips": "第一次吃可能会觉得新奇"
     }
   },
@@ -172,9 +172,9 @@
     "id": "14",
     "name": "炸虾仁",
     "description": "外酥里嫩，金黄诱人。",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop",
+    "image": "https://picsum.photos/seed/fried_shrimp/400/300",
     "price": "48-68元/份",
-    "category": "seafood",
+    "category": "海鲜",
     "recommend": false,
     "details": {
       "description": "炸虾仁是经典的海鲜做法，外皮酥脆，虾仁鲜嫩。",
@@ -185,9 +185,9 @@
     "id": "15",
     "name": "蛤蜊疙瘩汤",
     "description": "鲜美的蛤蜊配上面疙瘩，暖心暖胃。",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop",
+    "image": "https://picsum.photos/seed/clams_soup/400/300",
     "price": "28-38元/碗",
-    "category": "main",
+    "category": "主食",
     "recommend": false,
     "details": {
       "description": "蛤蜊疙瘩汤是青岛的家常美食，鲜美的蛤蜊汤配上劲道的面疙瘩。",
@@ -198,9 +198,9 @@
     "id": "16",
     "name": "烤鱿鱼",
     "description": "街头小吃之王，香气扑鼻。",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop",
+    "image": "https://picsum.photos/seed/grilled_squid/400/300",
     "price": "15-30元/串",
-    "category": "snacks",
+    "category": "小吃",
     "recommend": true,
     "details": {
       "description": "烤鱿鱼是青岛街头最受欢迎的小吃，刷上秘制酱料，香气四溢。",
