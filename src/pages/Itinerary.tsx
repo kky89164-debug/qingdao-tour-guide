@@ -33,12 +33,12 @@ export default function Itinerary() {
   const getRoutePoints = (itineraryId: string) => {
     const itinerary = itineraries.find(i => i.id === itineraryId);
     if (!itinerary) return [];
-    return itinerary.steps.map(step => {
-      const attraction = attractions.find(a => step.place.includes(a.name));
+    return itinerary.route.map(step => {
+      const attraction = attractions.find(a => step.name.includes(a.name));
       return {
-        name: step.place.split('→')[0].trim(),
-        latitude: attraction?.latitude || 36.0671,
-        longitude: attraction?.longitude || 120.3826
+        name: step.name,
+        latitude: attraction?.latitude || step.latitude || 36.0671,
+        longitude: attraction?.longitude || step.longitude || 120.3826
       };
     });
   };

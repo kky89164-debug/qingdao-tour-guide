@@ -7,7 +7,7 @@ interface Food {
   image: string;
   category: string;
   price: string;
-  location: string;
+  location?: string;
 }
 
 interface FoodCardProps {
@@ -49,10 +49,12 @@ export default function FoodCard({ food }: FoodCardProps) {
             <DollarSign className="w-3.5 h-3.5 text-green-500" />
             <span className="text-xs text-gray-600">{food.price}</span>
           </div>
-          <div className="flex items-center gap-1.5 bg-gray-50 px-3 py-1.5 rounded-full">
-            <MapPin className="w-3.5 h-3.5 text-blue-500" />
-            <span className="text-xs text-gray-600">{food.location}</span>
-          </div>
+          {food.location && (
+            <div className="flex items-center gap-1.5 bg-gray-50 px-3 py-1.5 rounded-full">
+              <MapPin className="w-3.5 h-3.5 text-blue-500" />
+              <span className="text-xs text-gray-600">{food.location}</span>
+            </div>
+          )}
         </div>
       </div>
     </div>

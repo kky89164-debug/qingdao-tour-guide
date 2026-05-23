@@ -3,10 +3,10 @@ import { Link } from 'react-router-dom';
 
 interface ItineraryStep {
   time: string;
-  place: string;
-  activity: string;
-  description?: string;
-  link?: string;
+  name: string;
+  description: string;
+  latitude?: number;
+  longitude?: number;
 }
 
 interface Itinerary {
@@ -16,7 +16,10 @@ interface Itinerary {
   description: string;
   icon?: string;
   color?: string;
-  steps: ItineraryStep[];
+  theme?: string;
+  route: ItineraryStep[];
+  difficulty: string;
+  tips: string;
 }
 
 interface ItineraryCardProps {
@@ -58,8 +61,16 @@ const colorClasses = {
   }
 };
 
+const themeColors: Record<string, keyof typeof colorClasses> = {
+  classic: 'blue',
+  deep: 'green',
+  family: 'purple',
+  romantic: 'pink'
+};
+
 export default function ItineraryCard({ itinerary }: ItineraryCardProps) {
-  const colors = colorClasses[itinerary.color as keyof typeof colorClasses] || colorClasses.blue;
+  const theme = itinerary.color || itinerary.theme || 'classic';
+  const colors = colorClasses[themeColors[theme] || 'blue'];
   
   return (
     <div className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300">
@@ -76,14 +87,14 @@ export default function ItineraryCard({ itinerary }: ItineraryCardProps) {
       
       <div className="p-6">
         <div className="relative">
-          {itinerary.steps.map((step, index) => (
+          {itinerary.route.map((step, index) => (
             <div key={index} className="relative">
-              <div className={`flex gap-4 ${index < itinerary.steps.length - 1 ? 'pb-8' : ''}`}>
+              <div className={`flex gap-4 ${index < itinerary.route.length - 1 ? 'pb-8' : ''}`}>
                 <div className="flex flex-col items-center z-10">
                   <div className={`w-10 h-10 rounded-full ${colors.dot} flex items-center justify-center shadow-md`}>
                     <span className="text-white font-bold text-sm">{index + 1}</span>
                   </div>
-                  {index < itinerary.steps.length - 1 && (
+                  {index < itinerary.route.length - 1 && (
                     <div className={`w-0.5 flex-1 ${colors.line} mt-3`} />
                   )}
                 </div>
@@ -95,34 +106,26 @@ export default function ItineraryCard({ itinerary }: ItineraryCardProps) {
                         <Clock className="w-4 h-4 text-gray-500" />
                         <span className="text-sm font-semibold text-gray-700">{step.time}</span>
                       </div>
-                      {step.link && (
-                        <Link 
-                          to={step.link}
-                          className={`flex items-center gap-1 text-xs font-medium ${colors.text} hover:opacity-80 transition-opacity`}
-                        >
-                          查看详情
-                          <ArrowRight className="w-3 h-3" />
-                        </Link>
-                      )}
+                      <Link 
+                        to="/attractions"
+                        className={`flex items-center gap-1 text-xs font-medium ${colors.text} hover:opacity-80 transition-opacity`}
+                      >
+                        查看详情
+                        <ArrowRight className="w-3 h-3" />
+                      </Link>
                     </div>
                     
                     <div className="flex items-center gap-2 mb-2">
                       <MapPin className={`w-4 h-4 ${colors.text}`} />
-                      <span className="font-bold text-gray-800">{step.place}</span>
+                      <span className="font-bold text-gray-800">{step.name}</span>
                     </div>
                     
-                    <p className="text-gray-600 text-sm mb-2">{step.activity}</p>
-                    
-                    {step.description && (
-                      <p className="text-gray-500 text-sm leading-relaxed">
-                        {step.description}
-                      </p>
-                    )}
+                    <p className="text-gray-600 text-sm">{step.description}</p>
                   </div>
                 </div>
               </div>
               
-              {index < itinerary.steps.length - 1 && (
+              {index < itinerary.route.length - 1 && (
                 <div className="absolute left-5 top-12 flex items-center justify-center w-5 h-5">
                   <div className={`${colors.line} rounded-full p-0.5`}>
                     <ChevronRight className={`w-3 h-3 ${colors.text}`} />
@@ -136,8 +139,15 @@ export default function ItineraryCard({ itinerary }: ItineraryCardProps) {
         <div className={`mt-6 flex items-center justify-center gap-2 ${colors.light} rounded-lg py-3 border ${colors.border}`}>
           <Route className={`w-4 h-4 ${colors.text}`} />
           <span className={`text-sm font-medium ${colors.text}`}>
-            路线总步数：{itinerary.steps.length}站
+            路线总步数：{itinerary.route.length}站
           </span>
+        </div>
+        
+        <div className="mt-4 p-3 bg-gray-50 rounded-lg">
+          <p className="text-xs text-gray-600 flex items-start gap-2">
+            <span className="text-yellow-500 font-bold">小贴士：</span>
+            {itinerary.tips}
+          </p>
         </div>
       </div>
     </div>
