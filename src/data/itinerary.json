@@ -4,13 +4,51 @@
     "title": "经典一日游",
     "duration": "1天",
     "description": "适合时间有限的游客，涵盖青岛最核心的景点",
+    "icon": "Footprints",
+    "color": "blue",
     "steps": [
-      {"time": "09:00", "place": "栈桥", "activity": "漫步海上长廊，欣赏百年建筑"},
-      {"time": "11:00", "place": "信号山公园", "activity": "登高俯瞰青岛全景"},
-      {"time": "12:30", "place": "中山路", "activity": "午餐，品尝青岛小吃"},
-      {"time": "14:00", "place": "八大关", "activity": "漫步万国建筑博览苑"},
-      {"time": "16:00", "place": "五四广场", "activity": "欣赏\"五月的风\"雕塑"},
-      {"time": "18:00", "place": "奥帆中心", "activity": "观看日落和灯光秀"}
+      {
+        "time": "09:00",
+        "place": "栈桥",
+        "activity": "漫步海上长廊，欣赏百年建筑",
+        "description": "青岛标志性建筑，建于清光绪年间，深入海中440米，是观赏青岛湾全景的最佳位置",
+        "link": "/attractions"
+      },
+      {
+        "time": "11:00",
+        "place": "信号山公园",
+        "activity": "登高俯瞰青岛全景",
+        "description": "海拔98米，山顶的红色蘑菇楼360°旋转观景台，可将青岛湾、栈桥、八大关等美景尽收眼底",
+        "link": "/attractions"
+      },
+      {
+        "time": "12:30",
+        "place": "中山路",
+        "activity": "午餐，品尝青岛小吃",
+        "description": "青岛最早的商业街，两侧是德国风格建筑，可以品尝锅贴、海鲜饺子等本地美食",
+        "link": "/food"
+      },
+      {
+        "time": "14:00",
+        "place": "八大关",
+        "activity": "漫步万国建筑博览苑",
+        "description": "200多栋各国风格别墅，春天海棠花浪漫，秋天银杏金黄，是青岛最美的城市花园",
+        "link": "/attractions"
+      },
+      {
+        "time": "16:00",
+        "place": "五四广场",
+        "activity": "欣赏\"五月的风\"雕塑",
+        "description": "青岛新地标，红色火炬雕塑象征五四运动精神，是青岛最繁华的城市客厅",
+        "link": "/attractions"
+      },
+      {
+        "time": "18:00",
+        "place": "奥帆中心",
+        "activity": "观看日落和灯光秀",
+        "description": "2008年奥帆赛举办地，傍晚时分，浮山湾灯光秀璀璨夺目，是青岛最美的夜景",
+        "link": "/attractions"
+      }
     ]
   },
   {
@@ -18,10 +56,30 @@
     "title": "深度三日游",
     "duration": "3天",
     "description": "全面体验青岛的自然风光和人文历史",
+    "icon": "Calendar",
+    "color": "green",
     "steps": [
-      {"time": "第一天", "place": "市区经典", "activity": "栈桥→八大关→五四广场→奥帆中心"},
-      {"time": "第二天", "place": "崂山风景区", "activity": "太清宫→巨峰→仰口海滩"},
-      {"time": "第三天", "place": "文化美食", "activity": "啤酒博物馆→台东步行街→海鲜大餐"}
+      {
+        "time": "第一天 · 市区经典",
+        "place": "栈桥 → 信号山 → 八大关",
+        "activity": "感受青岛的历史魅力",
+        "description": "上午漫步百年栈桥，中午到信号山登高望远，下午在八大关万国建筑群中感受欧式风情",
+        "link": "/attractions"
+      },
+      {
+        "time": "第二天 · 崂山寻仙",
+        "place": "太清宫 → 巨峰 → 仰口",
+        "activity": "探索海上第一名山",
+        "description": "道教名山，太清宫历史悠久，巨峰可看云海日出，仰口湾有着最美的山海风光",
+        "link": "/attractions"
+      },
+      {
+        "time": "第三天 · 美食文化",
+        "place": "啤酒博物馆 → 台东步行街 → 海鲜大餐",
+        "activity": "品味地道青岛味道",
+        "description": "参观百年啤酒厂，逛热闹的台东夜市，最后在海鲜大排档大快朵颐",
+        "link": "/food"
+      }
     ]
   },
   {
@@ -29,9 +87,23 @@
     "title": "亲子欢乐游",
     "duration": "2天",
     "description": "适合带孩子的家庭，轻松愉快的行程",
+    "icon": "Users",
+    "color": "purple",
     "steps": [
-      {"time": "第一天", "place": "金沙滩", "activity": "沙滩玩耍、游泳、堆沙堡"},
-      {"time": "第二天", "place": "海昌极地海洋世界", "activity": "观赏海洋生物、海豚表演"}
+      {
+        "time": "第一天 · 沙滩狂欢",
+        "place": "金沙滩",
+        "activity": "沙滩玩耍、游泳、堆沙堡",
+        "description": "青岛最大最美的沙滩，沙质细腻，海水清澈，是亲子戏水的绝佳选择",
+        "link": "/attractions"
+      },
+      {
+        "time": "第二天 · 海洋探险",
+        "place": "海昌极地海洋世界",
+        "activity": "观赏海洋生物、海豚表演",
+        "description": "中国最大的极地海洋馆，白鲸、海豚、企鹅等极地动物，精彩的表演让孩子们欢呼",
+        "link": "/attractions"
+      }
     ]
   },
   {
@@ -39,11 +111,23 @@
     "title": "浪漫情侣游",
     "duration": "2天",
     "description": "浪漫温馨的海滨之旅",
+    "icon": "Heart",
+    "color": "pink",
     "steps": [
-      {"time": "第一天", "place": "八大关", "activity": "漫步梧桐树下，感受百年浪漫"},
-      {"time": "下午", "place": "太平角公园", "activity": "海边野餐，欣赏日落"},
-      {"time": "第二天", "place": "小麦岛", "activity": "环岛漫步，海誓山盟"},
-      {"time": "晚上", "place": "情人坝", "activity": "灯光璀璨，浪漫晚餐"}
+      {
+        "time": "第一天 · 老城漫步",
+        "place": "八大关 → 太平角公园",
+        "activity": "漫步梧桐树下，海边野餐",
+        "description": "八大关的梧桐树下，手牵着手散步；太平角的海边，一起看日落，浪漫满分",
+        "link": "/attractions"
+      },
+      {
+        "time": "第二天 · 海岛之恋",
+        "place": "小麦岛 → 情人坝",
+        "activity": "环岛漫步，海誓山盟",
+        "description": "小麦岛的浪漫海岸线，情人坝的璀璨灯光，是青岛最适合情侣的打卡胜地",
+        "link": "/attractions"
+      }
     ]
   }
 ]

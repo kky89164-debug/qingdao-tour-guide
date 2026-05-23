@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { MapPin, Menu, X } from 'lucide-react';
-import { Link, useLocation } from 'react-router-dom';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 
 const navItems = [
   { name: '首页', path: '/' },
@@ -13,12 +13,24 @@ const navItems = [
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const location = useLocation();
+  const navigate = useNavigate();
+
+  const handleNavClick = (path: string) => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    setTimeout(() => {
+      navigate(path);
+    }, 100);
+    setIsMenuOpen(false);
+  };
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-sm shadow-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
-          <div className="flex items-center gap-2">
+          <div 
+            className="flex items-center gap-2 cursor-pointer"
+            onClick={() => handleNavClick('/')}
+          >
             <MapPin className="w-6 h-6 text-blue-500" />
             <span className="text-xl font-bold bg-gradient-to-r from-blue-500 to-blue-700 bg-clip-text text-transparent">
               青岛旅游攻略
@@ -27,9 +39,9 @@ export default function Header() {
 
           <nav className="hidden md:flex items-center gap-8">
             {navItems.map((item) => (
-              <Link
+              <button
                 key={item.name}
-                to={item.path}
+                onClick={() => handleNavClick(item.path)}
                 className={`text-sm font-medium transition-colors duration-200 ${
                   location.pathname === item.path
                     ? 'text-blue-600 border-b-2 border-blue-500 pb-1'
@@ -37,7 +49,7 @@ export default function Header() {
                 }`}
               >
                 {item.name}
-              </Link>
+              </button>
             ))}
           </nav>
 
@@ -54,18 +66,17 @@ export default function Header() {
         <div className="md:hidden bg-white border-t border-gray-100">
           <nav className="flex flex-col p-4">
             {navItems.map((item) => (
-              <Link
+              <button
                 key={item.name}
-                to={item.path}
-                className={`py-3 px-4 rounded-lg text-sm font-medium transition-colors ${
+                onClick={() => handleNavClick(item.path)}
+                className={`py-3 px-4 rounded-lg text-sm font-medium transition-colors text-left ${
                   location.pathname === item.path
                     ? 'bg-blue-50 text-blue-600'
                     : 'text-gray-600 hover:bg-gray-50'
                 }`}
-                onClick={() => setIsMenuOpen(false)}
               >
                 {item.name}
-              </Link>
+              </button>
             ))}
           </nav>
         </div>

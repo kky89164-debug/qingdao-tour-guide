@@ -70,5 +70,77 @@
     "category": "主食",
     "price": "20-40元",
     "location": "老字号锅贴店"
+  },
+  {
+    "id": "9",
+    "name": "清蒸鲈鱼",
+    "description": "新鲜海鲈鱼清蒸，肉质细嫩，原汁原味。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=steamed%20sea%20bass%20Chinese%20style%20with%20ginger%20and%20scallion&image_size=landscape_4_3",
+    "category": "海鲜",
+    "price": "60-100元",
+    "location": "海鲜餐厅"
+  },
+  {
+    "id": "10",
+    "name": "扇贝粉丝",
+    "description": "新鲜扇贝配上蒜蓉粉丝，味道鲜美，营养丰富。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=steamed%20scallops%20with%20vermicelli%20and%20garlic&image_size=landscape_4_3",
+    "category": "海鲜",
+    "price": "30-50元",
+    "location": "海鲜餐厅"
+  },
+  {
+    "id": "11",
+    "name": "青岛锅盔",
+    "description": "传统面食，外酥内软，有多种口味可选。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Chinese%20crispy%20flatbread%20Guokui&image_size=landscape_4_3",
+    "category": "主食",
+    "price": "10-15元",
+    "location": "街边小吃店"
+  },
+  {
+    "id": "12",
+    "name": "海鲜粥",
+    "description": "新鲜海鲜熬制的粥，营养丰富，暖胃暖心。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=seafood%20congee%20porridge%20with%20shrimp%20and%20scallops&image_size=landscape_4_3",
+    "category": "主食",
+    "price": "20-40元",
+    "location": "粥铺、早餐店"
+  },
+  {
+    "id": "13",
+    "name": "青岛酸奶",
+    "description": "本地特色酸奶，口感醇厚，酸甜可口。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=fresh%20yogurt%20in%20glass%20jar%20with%20fruit%20topping&image_size=landscape_4_3",
+    "category": "饮品",
+    "price": "8-15元",
+    "location": "超市、甜品店"
+  },
+  {
+    "id": "14",
+    "name": "海鲜烧烤",
+    "description": "各种海鲜串在一起烧烤，香气四溢。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=grilled%20seafood%20skewers%20on%20barbecue&image_size=landscape_4_3",
+    "category": "小吃",
+    "price": "50-100元",
+    "location": "烧烤摊"
+  },
+  {
+    "id": "15",
+    "name": "排骨米饭",
+    "description": "青岛特色快餐，排骨软烂入味，米饭香甜。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=braised%20pork%20ribs%20with%20rice%20Chinese%20style&image_size=landscape_4_3",
+    "category": "主食",
+    "price": "20-35元",
+    "location": "排骨米饭专门店"
+  },
+  {
+    "id": "16",
+    "name": "蜂蜜大麻花",
+    "description": "青岛特色甜点，外脆内软，香甜可口。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Chinese%20honey%20twisted%20donut%20mahua&image_size=landscape_4_3",
+    "category": "小吃",
+    "price": "5-10元",
+    "location": "街边小吃摊"
   }
 ]

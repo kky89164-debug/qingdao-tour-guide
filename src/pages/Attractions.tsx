@@ -1,11 +1,13 @@
 import { useState } from 'react';
 import { Search, Star, MapPin, Clock, Ticket } from 'lucide-react';
-import AttractionCard from '../components/AttractionCard';
+import AttractionCard, { Attraction } from '../components/AttractionCard';
+import DetailModal from '../components/DetailModal';
 import attractions from '../data/attractions.json';
 
 export default function Attractions() {
   const [searchQuery, setSearchQuery] = useState('');
   const [filterType, setFilterType] = useState('all');
+  const [selectedAttraction, setSelectedAttraction] = useState<Attraction | null>(null);
 
   const filteredAttractions = attractions.filter((attraction) => {
     const matchesSearch =
@@ -22,6 +24,10 @@ export default function Attractions() {
 
     return matchesSearch && matchesFilter;
   });
+
+  const handleCardClick = (attraction: Attraction) => {
+    setSelectedAttraction(attraction);
+  };
 
   return (
     <div className="min-h-screen pt-20 pb-16">
@@ -82,7 +88,11 @@ export default function Attractions() {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
           {filteredAttractions.map((attraction) => (
-            <AttractionCard key={attraction.id} attraction={attraction} />
+            <AttractionCard 
+              key={attraction.id} 
+              attraction={attraction} 
+              onClick={() => handleCardClick(attraction)}
+            />
           ))}
         </div>
 
@@ -129,6 +139,13 @@ export default function Attractions() {
           </div>
         </div>
       </div>
+
+      {selectedAttraction && (
+        <DetailModal 
+          attraction={selectedAttraction} 
+          onClose={() => setSelectedAttraction(null)} 
+        />
+      )}
     </div>
   );
 }

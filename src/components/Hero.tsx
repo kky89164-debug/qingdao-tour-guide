@@ -9,7 +9,7 @@ export default function Hero() {
   };
 
   return (
-    <section className="relative h-screen min-h-[600px] overflow-hidden">
+    <section className="relative h-screen min-h-[600px] overflow-hidden pt-16">
       <div
         className="absolute inset-0 bg-cover bg-center"
         style={{

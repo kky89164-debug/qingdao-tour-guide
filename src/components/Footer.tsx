@@ -1,4 +1,5 @@
 import { MapPin, Phone, Mail } from 'lucide-react';
+import { Link } from 'react-router-dom';
 
 export default function Footer() {
   return (
@@ -15,29 +16,29 @@ export default function Footer() {
             <h3 className="text-lg font-semibold mb-4">快速链接</h3>
             <ul className="space-y-2">
               <li>
-                <a href="/" className="text-blue-100 hover:text-white transition-colors text-sm">
+                <Link to="/" className="text-blue-100 hover:text-white transition-colors text-sm">
                   首页
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="/attractions" className="text-blue-100 hover:text-white transition-colors text-sm">
+                <Link to="/attractions" className="text-blue-100 hover:text-white transition-colors text-sm">
                   景点推荐
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="/food" className="text-blue-100 hover:text-white transition-colors text-sm">
+                <Link to="/food" className="text-blue-100 hover:text-white transition-colors text-sm">
                   美食推荐
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="/itinerary" className="text-blue-100 hover:text-white transition-colors text-sm">
+                <Link to="/itinerary" className="text-blue-100 hover:text-white transition-colors text-sm">
                   行程规划
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="/transport" className="text-blue-100 hover:text-white transition-colors text-sm">
+                <Link to="/transport" className="text-blue-100 hover:text-white transition-colors text-sm">
                   交通指南
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
@@ -46,15 +47,15 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-center gap-2 text-blue-100 text-sm">
                 <MapPin className="w-4 h-4" />
-                <span>山东省青岛市市南区</span>
+                <span>安徽省淮南市</span>
               </li>
               <li className="flex items-center gap-2 text-blue-100 text-sm">
                 <Phone className="w-4 h-4" />
-                <span>400-888-8888</span>
+                <span>13275548783</span>
               </li>
               <li className="flex items-center gap-2 text-blue-100 text-sm">
                 <Mail className="w-4 h-4" />
-                <span>info@qingdaotour.com</span>
+                <span>3174645047@qq.com</span>
               </li>
             </ul>
           </div>

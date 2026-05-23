@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "大学路",
+    "description": "青岛最文艺的街道，红墙绿树，咖啡馆林立，是拍照打卡的热门地点。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Daxue%20Road%20artistic%20street%20with%20red%20walls&image_size=landscape_16_9",
+    "location": "市南区大学路",
+    "type": "culture",
+    "latitude": 36.0658,
+    "longitude": 120.3495
+  },
+  {
+    "id": "2",
+    "name": "小鱼山文化名人街",
+    "description": "汇集了康有为、闻一多等文化名人的故居，充满人文气息。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20cultural%20celebrity%20street%20with%20old%20buildings&image_size=landscape_16_9",
+    "location": "市南区福山支路",
+    "type": "culture",
+    "latitude": 36.0655,
+    "longitude": 120.3612
+  },
+  {
+    "id": "3",
+    "name": "情人坝",
+    "description": "奥帆中心内的海上堤坝，是观赏海景和日落的浪漫地点。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Lovers%20Dam%20romantic%20sunset%20view&image_size=landscape_16_9",
+    "location": "市南区奥帆中心",
+    "type": "romantic",
+    "latitude": 36.0552,
+    "longitude": 120.4135
+  },
+  {
+    "id": "4",
+    "name": "崂山太清宫",
+    "description": "道教圣地，已有2100多年历史，是崂山最著名的道观。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Laoshan%20Taiqing%20Palace%20Taoist%20temple%20ancient%20architecture&image_size=landscape_16_9",
+    "location": "崂山区崂山风景区",
+    "type": "historic",
+    "latitude": 36.1235,
+    "longitude": 120.6342
+  },
+  {
+    "id": "5",
+    "name": "青山渔村",
+    "description": "崂山脚下的美丽渔村，红瓦绿树，面朝大海，宛如世外桃源。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Qingshan%20fishing%20village%20with%20red%20roofs&image_size=landscape_16_9",
+    "location": "崂山区青山村",
+    "type": "nature",
+    "latitude": 36.1428,
+    "longitude": 120.6578
+  },
+  {
+    "id": "6",
+    "name": "信号山旋转观景台",
+    "description": "360度旋转观景台，可以俯瞰整个青岛老城区的美景。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Signal%20Hill%20rotating%20observatory%20panoramic%20view&image_size=landscape_16_9",
+    "location": "市南区信号山公园",
+    "type": "viewpoint",
+    "latitude": 36.0682,
+    "longitude": 120.3538
+  },
+  {
+    "id": "7",
+    "name": "岛城书房",
+    "description": "青岛最美的海边书店，面朝大海，书香与海浪相伴。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20seaside%20bookstore%20with%20ocean%20view&image_size=landscape_16_9",
+    "location": "市南区珠海路",
+    "type": "culture",
+    "latitude": 36.0518,
+    "longitude": 120.4125
+  },
+  {
+    "id": "8",
+    "name": "燕儿岛山公园",
+    "description": "海边的山体公园，木栈道蜿蜒曲折，风景如画。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Yan'er%20Island%20Mountain%20Park%20coastal%20trail&image_size=landscape_16_9",
+    "location": "市南区珠海支路",
+    "type": "nature",
+    "latitude": 36.0495,
+    "longitude": 120.4215
+  }
+]

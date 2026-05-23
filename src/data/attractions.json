@@ -7,7 +7,25 @@
     "location": "市南区太平路",
     "ticket": "免费",
     "opening_hours": "全天开放",
-    "rating": 4.8
+    "rating": 4.8,
+    "latitude": 36.0671,
+    "longitude": 120.3826,
+    "type": "historic",
+    "details": {
+      "overview": "栈桥是青岛最具代表性的景点之一，建于清光绪年间，已有百年历史。栈桥全长440米，由海岸伸入海中，尽头是回澜阁，是观赏青岛湾全景的最佳位置。",
+      "activities": [
+        {"name": "漫步栈桥", "desc": "沿着海上长廊漫步，感受海风拂面"},
+        {"name": "回澜阁参观", "desc": "登上回澜阁，欣赏360度海景"},
+        {"name": "海鸥观赏", "desc": "冬季有大量海鸥聚集，可喂食互动"},
+        {"name": "拍照打卡", "desc": "与百年建筑和大海合影留念"}
+      ],
+      "images": [
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Zhanqiao%20Pier%20sunset%20view&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Zhanqiao%20Pier%20with%20seagulls&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Huilan%20Pavilion%20at%20night&image_size=landscape_16_9"
+      ],
+      "tips": "建议清晨或傍晚前往，人少景美，拍照效果更佳"
+    }
   },
   {
     "id": "2",
@@ -17,7 +35,25 @@
     "location": "市南区八大关路",
     "ticket": "免费",
     "opening_hours": "全天开放",
-    "rating": 4.7
+    "rating": 4.7,
+    "latitude": 36.0589,
+    "longitude": 120.3994,
+    "type": "historic",
+    "details": {
+      "overview": "八大关是青岛著名的历史文化街区，因八条以关隘命名的道路而得名。这里汇集了20多个国家的建筑风格，有\"万国建筑博览苑\"之称。",
+      "activities": [
+        {"name": "建筑欣赏", "desc": "漫步八大关，欣赏各国风格建筑"},
+        {"name": "八大关小礼堂", "desc": "参观著名的欧式婚礼殿堂"},
+        {"name": "秋季赏叶", "desc": "秋天银杏金黄，美不胜收"},
+        {"name": "太平角公园", "desc": "毗邻八大关，海滨漫步"}
+      ],
+      "images": [
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Badaguan%20autumn%20ginkgo%20trees&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Badaguan%20European%20villa&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Badaguan%20coastal%20walkway&image_size=landscape_16_9"
+      ],
+      "tips": "春季海棠盛开和秋季银杏金黄是最佳观赏时间"
+    }
   },
   {
     "id": "3",
@@ -27,7 +63,25 @@
     "location": "崂山区",
     "ticket": "130元",
     "opening_hours": "7:00-17:00",
-    "rating": 4.9
+    "rating": 4.9,
+    "latitude": 36.1562,
+    "longitude": 120.6725,
+    "type": "nature",
+    "details": {
+      "overview": "崂山是中国海岸线第一高峰，海拔1133米，山海相连，风景壮丽。这里是道教名山，有\"海上第一名山\"之称。",
+      "activities": [
+        {"name": "太清宫", "desc": "参观2100年历史的道教圣地"},
+        {"name": "巨峰游览", "desc": "登顶巨峰，俯瞰山海全景"},
+        {"name": "仰口海滩", "desc": "山海之间的美丽沙滩"},
+        {"name": "北九水", "desc": "欣赏峡谷溪流瀑布美景"}
+      ],
+      "images": [
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Laoshan%20Taiqing%20Palace%20Taoist%20temple&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Laoshan%20mountain%20peak%20clouds&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Laoshan%20Beijiushui%20waterfall&image_size=landscape_16_9"
+      ],
+      "tips": "建议安排一整天，景区较大，可选择太清或巨峰线路"
+    }
   },
   {
     "id": "4",
@@ -37,7 +91,25 @@
     "location": "市南区东海西路",
     "ticket": "免费",
     "opening_hours": "全天开放",
-    "rating": 4.6
+    "rating": 4.6,
+    "latitude": 36.0628,
+    "longitude": 120.3987,
+    "type": "modern",
+    "details": {
+      "overview": "五四广场是青岛的城市地标，因纪念五四运动而得名。标志性雕塑\"五月的风\"是青岛的象征。",
+      "activities": [
+        {"name": "五月的风", "desc": "与标志性雕塑合影"},
+        {"name": "海滨漫步", "desc": "沿着浮山湾散步"},
+        {"name": "灯光秀", "desc": "夜晚观看灯光表演"},
+        {"name": "音乐广场", "desc": "欣赏音乐喷泉"}
+      ],
+      "images": [
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20May%20Fourth%20Square%20night%20lights&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20May%20Fourth%20Square%20sunset&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20May%20Fourth%20Square%20musical%20fountain&image_size=landscape_16_9"
+      ],
+      "tips": "灯光秀通常在晚上7:30-9:00，节假日会延长"
+    }
   },
   {
     "id": "5",
@@ -47,7 +119,25 @@
     "location": "市北区登州路56号",
     "ticket": "60元",
     "opening_hours": "9:00-17:30",
-    "rating": 4.5
+    "rating": 4.5,
+    "latitude": 36.0778,
+    "longitude": 120.3381,
+    "type": "culture",
+    "details": {
+      "overview": "青岛啤酒博物馆位于百年老厂房内，展示青岛啤酒的历史和酿造工艺，是啤酒爱好者的必访之地。",
+      "activities": [
+        {"name": "历史展厅", "desc": "了解青啤百年历史"},
+        {"name": "酿造工艺", "desc": "参观啤酒酿造过程"},
+        {"name": "原浆品尝", "desc": "品尝新鲜原浆啤酒"},
+        {"name": "啤酒吧", "desc": "在主题酒吧畅饮"}
+      ],
+      "images": [
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Tsingtao%20Beer%20Museum%20exhibition&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Tsingtao%20Beer%20brewery%20equipment&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Tsingtao%20Beer%20bar%20interior&image_size=landscape_16_9"
+      ],
+      "tips": "包含免费啤酒品尝，建议饮酒后不要开车"
+    }
   },
   {
     "id": "6",
@@ -57,7 +147,25 @@
     "location": "黄岛区金沙滩路",
     "ticket": "免费",
     "opening_hours": "全天开放",
-    "rating": 4.7
+    "rating": 4.7,
+    "latitude": 35.9786,
+    "longitude": 120.1687,
+    "type": "beach",
+    "details": {
+      "overview": "金沙滩被誉为\"亚洲第一滩\"，沙质细腻如金，海水清澈湛蓝，是青岛最受欢迎的海滨浴场之一。",
+      "activities": [
+        {"name": "游泳戏水", "desc": "在清澈海水中畅游"},
+        {"name": "沙滩运动", "desc": "沙滩排球、足球等"},
+        {"name": "海上项目", "desc": "快艇、帆船、水上摩托"},
+        {"name": "沙滩露营", "desc": "搭帐篷享受海滨时光"}
+      ],
+      "images": [
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Golden%20Beach%20sunset&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Golden%20Beach%20water%20sports&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Golden%20Beach%20beach%20volleyball&image_size=landscape_16_9"
+      ],
+      "tips": "夏季人多，建议早去占位，注意防晒"
+    }
   },
   {
     "id": "7",
@@ -67,7 +175,25 @@
     "location": "市南区齐东路17号",
     "ticket": "15元",
     "opening_hours": "6:00-20:30",
-    "rating": 4.4
+    "rating": 4.4,
+    "latitude": 36.0679,
+    "longitude": 120.3542,
+    "type": "nature",
+    "details": {
+      "overview": "信号山海拔98米，山顶的三幢红色蘑菇楼是青岛的独特标志，360度旋转观景台可俯瞰全城美景。",
+      "activities": [
+        {"name": "旋转观景台", "desc": "360度俯瞰青岛全景"},
+        {"name": "登山步道", "desc": "漫步林间小道"},
+        {"name": "烽火台遗址", "desc": "了解历史遗迹"},
+        {"name": "夜景欣赏", "desc": "夜晚俯瞰城市灯光"}
+      ],
+      "images": [
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Signal%20Hill%20observatory%20panoramic%20view&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Signal%20Hill%20red%20buildings%20sunset&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Signal%20Hill%20night%20view&image_size=landscape_16_9"
+      ],
+      "tips": "建议傍晚前往，可同时欣赏白天和夜晚景色"
+    }
   },
   {
     "id": "8",
@@ -77,6 +203,248 @@
     "location": "市南区浮山湾畔",
     "ticket": "免费",
     "opening_hours": "全天开放",
-    "rating": 4.6
+    "rating": 4.6,
+    "latitude": 36.0578,
+    "longitude": 120.4108,
+    "type": "modern",
+    "details": {
+      "overview": "奥帆中心是2008年北京奥运会帆船比赛举办地，现在是集运动、休闲、旅游于一体的综合性景区。",
+      "activities": [
+        {"name": "帆船体验", "desc": "乘坐帆船出海体验"},
+        {"name": "情人坝", "desc": "漫步海上堤坝"},
+        {"name": "灯塔", "desc": "参观奥运灯塔"},
+        {"name": "夜景灯光秀", "desc": "观看浮山湾灯光表演"}
+      ],
+      "images": [
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Olympic%20Sailing%20Center%20sailboats&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Olympic%20Sailing%20Center%20lover%20dam&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Olympic%20Sailing%20Center%20night%20lights&image_size=landscape_16_9"
+      ],
+      "tips": "帆船体验需提前预约，价格约100-200元/小时"
+    }
+  },
+  {
+    "id": "9",
+    "name": "小麦岛",
+    "description": "四面环海的小岛，环岛步道风景优美，是拍照打卡的热门地点。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Wheat%20Island%20in%20Qingdao%20with%20scenic%20coastal%20path&image_size=landscape_16_9",
+    "location": "市南区小麦岛公园",
+    "ticket": "免费",
+    "opening_hours": "全天开放",
+    "rating": 4.8,
+    "latitude": 36.0512,
+    "longitude": 120.4185,
+    "type": "nature",
+    "details": {
+      "overview": "小麦岛是一个四面环海的小岛，岛上有一条环形步道，风景优美，是青岛最热门的拍照打卡地点之一。",
+      "activities": [
+        {"name": "环岛漫步", "desc": "绕岛一周约1.2公里"},
+        {"name": "草坪野餐", "desc": "在岛上草坪享受野餐"},
+        {"name": "拍照打卡", "desc": "360度海景拍照"},
+        {"name": "日落观赏", "desc": "欣赏绝美海上日落"}
+      ],
+      "images": [
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Wheat%20Island%20aerial%20view&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Wheat%20Island%20sunset%20picnic&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Wheat%20Island%20coastal%20path&image_size=landscape_16_9"
+      ],
+      "tips": "周末人较多，建议工作日前往体验更佳"
+    }
+  },
+  {
+    "id": "10",
+    "name": "海昌极地海洋世界",
+    "description": "大型海洋主题公园，可以观赏白鲸、海豚、企鹅等极地动物。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Polar%20Ocean%20World%20with%20polar%20animals&image_size=landscape_16_9",
+    "location": "崂山区东海东路",
+    "ticket": "180元",
+    "opening_hours": "9:00-17:30",
+    "rating": 4.5,
+    "latitude": 36.0721,
+    "longitude": 120.4573,
+    "type": "entertainment",
+    "details": {
+      "overview": "青岛海昌极地海洋世界是大型海洋主题公园，拥有白鲸、海豚、企鹅等多种极地动物，是亲子游玩的好去处。",
+      "activities": [
+        {"name": "白鲸表演", "desc": "观看可爱的白鲸表演"},
+        {"name": "海豚表演", "desc": "精彩的海豚跳跃表演"},
+        {"name": "企鹅馆", "desc": "观赏南极企鹅"},
+        {"name": "海底隧道", "desc": "漫步海底隧道"}
+      ],
+      "images": [
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=white%20whale%20show%20aquarium&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=dolphin%20show%20jumping&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=underwater%20tunnel%20aquarium&image_size=landscape_16_9"
+      ],
+      "tips": "表演有固定时间，建议提前查看表演时间表"
+    }
+  },
+  {
+    "id": "11",
+    "name": "天主教堂",
+    "description": "青岛著名的哥特式建筑，是拍照和举办婚礼的热门地点。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Catholic%20Church%20Gothic%20architecture&image_size=landscape_16_9",
+    "location": "市南区浙江路15号",
+    "ticket": "10元",
+    "opening_hours": "8:30-17:30",
+    "rating": 4.5,
+    "latitude": 36.0625,
+    "longitude": 120.3426,
+    "type": "historic",
+    "details": {
+      "overview": "青岛天主教堂是德国哥特式建筑，始建于1932年，是青岛最著名的宗教建筑之一，也是热门的婚纱照拍摄地。",
+      "activities": [
+        {"name": "教堂参观", "desc": "参观哥特式教堂内部"},
+        {"name": "拍照打卡", "desc": "与美丽的教堂合影"},
+        {"name": "广场漫步", "desc": "在教堂广场散步"},
+        {"name": "婚礼拍摄", "desc": "见证浪漫婚礼"}
+      ],
+      "images": [
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Catholic%20Church%20interior&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Catholic%20Church%20wedding&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Qingdao%20Catholic%20Church%20square&image_size=landscape_16_9"
+      ],
+      "tips": "周末和节假日人较多，建议早去"
+    }
+  },
+  {
+    "id": "12",
+    "name": "石老人浴场",
+    "description": "以海中\"石老人\"礁石闻名，沙滩平缓，适合游泳和水上运动。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Stone%20Old%20Man%20Beach%20in%20Qingdao%20with%20unique%20rock%20formation&image_size=landscape_16_9",
+    "location": "崂山区海尔路南端",
+    "ticket": "免费",
+    "opening_hours": "全天开放",
+    "rating": 4.4,
+    "latitude": 36.0938,
+    "longitude": 120.4621,
+    "type": "beach",
+    "details": {
+      "overview": "石老人浴场因海中一块酷似老人的礁石而得名，沙滩平缓，海水清澈，是青岛东部最受欢迎的海滨浴场之一。",
+      "activities": [
+        {"name": "游泳戏水", "desc": "在平缓的海水中游泳"},
+        {"name": "石老人拍照", "desc": "与标志性礁石合影"},
+        {"name": "沙滩运动", "desc": "沙滩排球、足球"},
+        {"name": "水上运动", "desc": "冲浪、帆板等"}
+      ],
+      "images": [
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Stone%20Old%20Man%20rock%20formation%20ocean&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Stone%20Old%20Man%20Beach%20surfing&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Stone%20Old%20Man%20Beach%20sunset&image_size=landscape_16_9"
+      ],
+      "tips": "夏季游泳区有救生员，安全有保障"
+    }
+  },
+  {
+    "id": "13",
+    "name": "小鱼山公园",
+    "description": "海拔60米的小山，是观赏青岛湾和八大关美景的最佳地点之一。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Little%20Fish%20Hill%20Park%20overlooking%20Qingdao%20bay&image_size=landscape_16_9",
+    "location": "市南区福山支路",
+    "ticket": "15元",
+    "opening_hours": "6:00-20:30",
+    "rating": 4.4,
+    "latitude": 36.0668,
+    "longitude": 120.3628,
+    "type": "nature",
+    "details": {
+      "overview": "小鱼山海拔60米，虽不高但位置绝佳，可俯瞰青岛湾、栈桥和八大关，是拍摄青岛全景的好地方。",
+      "activities": [
+        {"name": "览潮阁", "desc": "登上览潮阁俯瞰全景"},
+        {"name": "名人故居", "desc": "参观附近文化名人故居"},
+        {"name": "环山步道", "desc": "漫步山间小道"},
+        {"name": "拍照", "desc": "拍摄城市全景"}
+      ],
+      "images": [
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Little%20Fish%20Hill%20pavilion%20view&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Little%20Fish%20Hill%20overlook%20Qingdao%20bay&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Little%20Fish%20Hill%20path%20trees&image_size=landscape_16_9"
+      ],
+      "tips": "门票便宜，性价比很高，推荐前往"
+    }
+  },
+  {
+    "id": "14",
+    "name": "德国总督楼旧址",
+    "description": "德国殖民时期的总督官邸，现为青岛历史博物馆，建筑精美。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=German%20Governor%20Residence%20in%20Qingdao%20historic%20building&image_size=landscape_16_9",
+    "location": "市南区龙山路26号",
+    "ticket": "20元",
+    "opening_hours": "9:00-17:00",
+    "rating": 4.3,
+    "latitude": 36.0675,
+    "longitude": 120.3512,
+    "type": "historic",
+    "details": {
+      "overview": "德国总督楼旧址是德国殖民时期的总督官邸，建于1903年，现为青岛历史博物馆，展示青岛百年历史。",
+      "activities": [
+        {"name": "建筑参观", "desc": "欣赏德式建筑艺术"},
+        {"name": "历史展览", "desc": "了解青岛历史变迁"},
+        {"name": "花园漫步", "desc": "在庭院中散步"},
+        {"name": "拍照", "desc": "与百年建筑合影"}
+      ],
+      "images": [
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=German%20Governor%20Residence%20interior&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=German%20Governor%20Residence%20garden&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=German%20Governor%20Residence%20staircase&image_size=landscape_16_9"
+      ],
+      "tips": "建议跟随讲解员了解历史，收获更多"
+    }
+  },
+  {
+    "id": "15",
+    "name": "太平角公园",
+    "description": "八大关景区的一部分，滨海步道风景秀丽，是散步休闲的好去处。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Taipingjiao%20Park%20in%20Qingdao%20with%20coastal%20walkway&image_size=landscape_16_9",
+    "location": "市南区太平角一路",
+    "ticket": "免费",
+    "opening_hours": "全天开放",
+    "rating": 4.5,
+    "latitude": 36.0536,
+    "longitude": 120.4052,
+    "type": "nature",
+    "details": {
+      "overview": "太平角公园位于八大关东侧，拥有美丽的滨海步道，是青岛最适合散步和看海的地方之一。",
+      "activities": [
+        {"name": "滨海步道", "desc": "沿着海边漫步"},
+        {"name": "礁石观海", "desc": "在礁石上欣赏海景"},
+        {"name": "野餐", "desc": "在草坪上享受野餐"},
+        {"name": "日出日落", "desc": "观赏美丽的日出日落"}
+      ],
+      "images": [
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Taipingjiao%20Park%20coastal%20trail%20sunset&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Taipingjiao%20Park%20picnic&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Taipingjiao%20Park%20rocks%20ocean&image_size=landscape_16_9"
+      ],
+      "tips": "人少安静，适合情侣约会或独自思考"
+    }
+  },
+  {
+    "id": "16",
+    "name": "台东步行街",
+    "description": "青岛最热闹的商业街，美食小吃应有尽有，是购物和品尝小吃的好去处。",
+    "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Taidong%20commercial%20street%20in%20Qingdao%20busy%20shopping%20area&image_size=landscape_16_9",
+    "location": "市北区台东三路",
+    "ticket": "免费",
+    "opening_hours": "全天开放",
+    "rating": 4.5,
+    "latitude": 36.0828,
+    "longitude": 120.3567,
+    "type": "shopping",
+    "details": {
+      "overview": "台东步行街是青岛最繁华的商业街之一，有\"青岛王府井\"之称，汇集了各种美食小吃和购物商店。",
+      "activities": [
+        {"name": "美食品尝", "desc": "品尝各种小吃美食"},
+        {"name": "购物逛街", "desc": "购买特色商品"},
+        {"name": "夜市体验", "desc": "感受热闹的夜市氛围"},
+        {"name": "电影院", "desc": "看一场电影"}
+      ],
+      "images": [
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Taidong%20street%20night%20market&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Taidong%20street%20food%20stalls&image_size=landscape_16_9",
+        "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Taidong%20street%20shopping&image_size=landscape_16_9"
+      ],
+      "tips": "晚上最热闹，建议傍晚前往"
+    }
   }
 ]
